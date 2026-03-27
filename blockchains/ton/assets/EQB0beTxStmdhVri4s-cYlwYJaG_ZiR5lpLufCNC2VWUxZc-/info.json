@@ -2,14 +2,19 @@
   "name": "TASTE",
   "website": "https://tastetoken.net",
   "description": "TASTE is a real-world utility token built on the TON blockchain for discounts, loyalty, and coupon systems in restaurants, hotels, and local businesses.",
-  "explorer": "https://tonscan.org/jetton/EQB0beTxStmdhVri4s-cYlwYJaG_ZiR5lpLufCNC2VWUxZc-",
+  "explorer": "https://tonscan.org/address/EQB0beTxStmdhVri4s-cYlwYJaG_ZiR5lpLufCNC2VWUxZc-",
   "type": "JETTON",
   "symbol": "TASTE",
   "decimals": 9,
   "status": "active",
   "id": "EQB0beTxStmdhVri4s-cYlwYJaG_ZiR5lpLufCNC2VWUxZc-",
+  "links": [
+    { "name": "telegram", "url": "https://t.me/taste2025" },
+    { "name": "twitter", "url": "https://x.com/taste_token" },
+    { "name": "facebook", "url": "https://www.facebook.com/share/1DGWE1ZQoR/" },
+    { "name": "instagram", "url": "https://www.instagram.com/taste_ton_taste" }
+  ],
   "tags": [
-    "utility",
     "defi"
   ]
 }
